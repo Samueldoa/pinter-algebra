@@ -1,0 +1,1 @@
+Aquí subo ejercicios que he realizado de el libro de Charles C. Pinter "A Book of Abstract Algebra", por ahora subo los capítulos que me interesan.
